@@ -1,4 +1,6 @@
 # Chickpea Cauliflower Curry (VEGAN)
+
+## Ingredients
 - 1 medium white onion, diced (1 cup, 200 g) 
 - 3 cloves garlic, finely chopped (15 g) 
 - 1 inch piece of fresh ginger, peeled and minced (5 g) 
@@ -16,15 +18,18 @@
 - 1/2 cup fresh cilantro, finely chopped
 
 ## Notes
-- 
+- Used Red Curry Paste when first made.
+- Taste before adding chili flakes, it was already decently spicy without it.
 
 ## Instructions
 
-* Heat oil in a medium sauce pan over medium heat, add onion, garlic and ginger. Sauté until soft, approximately 2-3 minutes.
-* Stir in the tomato paste and curry paste and cook for an additional 2-3 minutes. Stirring often.
-* Add the chickpeas, carrots and red peppers stir until well coated.
-* Pour in the can of coconut milk and half cup on water along with cauliflower florets. Bring to a simmer and allow to cook for 10-15 minutes until all the vegetables are tender.
-* Finish with salt and chili flakes for additional heat if you’d like. Remove from the heat and stir in chopped cilantro.
-* Serve over a bed of rice and enjoy!
+1. Heat oil in a medium sauce pan over medium heat, add onion, garlic and ginger. Sauté until soft, approximately 2-3 minutes.
+2. Stir in the tomato paste and curry paste and cook for an additional 2-3 minutes. Stirring often.
+3. Add the chickpeas, carrots and red peppers stir until well coated.
+4. Pour in the can of coconut milk and half cup on water along with cauliflower florets. Bring to a simmer and allow to cook for 10-15 minutes until all the vegetables are tender.
+5. Finish with salt and chili flakes for additional heat if you’d like. Remove from the heat and stir in chopped cilantro.
+6. Serve over a bed of rice and enjoy!
 
 
+### Original Link
+[Runningonrealfood.com](https://runningonrealfood.com/cauliflower-chickpea-curry/)
