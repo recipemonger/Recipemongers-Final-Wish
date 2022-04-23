@@ -16,7 +16,6 @@
 
 ## Notes
 - The amount of chocolate chips listed was way too much to fit into the batter when we made it.
-- First made: 04/22/2022
 
 ## Instructions
 1. Preheat the oven to 350 degrees F (175 degrees C).
